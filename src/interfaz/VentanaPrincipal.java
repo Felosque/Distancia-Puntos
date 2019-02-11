@@ -97,6 +97,11 @@ public class VentanaPrincipal extends JFrame implements Runnable{
 		return pintor.darPuntoCercano(pX, pY);
 	}
 	
+	public void probandoRamaTesteo()
+	{
+		//Esto es solo para probar la rama de testeo
+	}
+	
 	public Linea darLineaCercana(int pX, int pY)
 	{
 		return pintor.darLineaCercana(pX, pY);
