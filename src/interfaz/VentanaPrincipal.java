@@ -166,7 +166,7 @@ public class VentanaPrincipal extends JFrame implements Runnable{
 			 moverPuntos();
 			 contador++;
 		  try {
-		   Thread.sleep(10);
+		   Thread.sleep(100);
 		  }catch(InterruptedException e) {}
 		 }
 	}
