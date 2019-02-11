@@ -1,0 +1,29 @@
+[33mcommit 4f63c7bf72ed1ebb195aab2ce73fba2d3d70c400[m[33m ([m[1;36mHEAD -> [m[1;32mTesteo[m[33m)[m
+Author: Felipe <felipelondono4@gmail.com>
+Date:   Mon Feb 11 12:19:53 2019 -0500
+
+    Mejorando la aplicacion por rama de testeo
+
+[33mcommit 7d39996fd03dc301b71e9a4af5bf15d9f5675879[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Felipe <felipelondono4@gmail.com>
+Date:   Mon Feb 11 12:14:37 2019 -0500
+
+    Mejorado log git
+
+[33mcommit b688630e38828ca3bc7167dd9208b2a9b1145b43[m
+Author: Felipe <felipelondono4@gmail.com>
+Date:   Mon Feb 11 12:09:22 2019 -0500
+
+    Se agrego el log de git
+
+[33mcommit 66cd1c01d57066c2990c53515dc9a277132f10c1[m
+Author: Felipe <felipelondono4@gmail.com>
+Date:   Mon Feb 11 12:07:25 2019 -0500
+
+    Mejorado el movimiento, se mejoro el tiempo del thread
+
+[33mcommit 6ebc0c7847b5519ab4bb9294adf1cc63dcc43c9c[m
+Author: Felipe <felipelondono4@gmail.com>
+Date:   Mon Feb 11 12:01:50 2019 -0500
+
+    Version 0.1
